@@ -1,0 +1,35 @@
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Environment variables
+.env
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+
+# Test reports
+test-output/
+jacoco.exec
+
+# Compiled class files
+*.class
+

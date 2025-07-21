@@ -1,0 +1,11 @@
+# Ignore OS files
+.DS_Store
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore logs
+*.log
+
